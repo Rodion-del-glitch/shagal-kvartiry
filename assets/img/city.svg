@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Городская инфраструктура квартала">
+  <rect width="640" height="420" fill="#EFE8DC"/>
+  <g fill="#E1D6C5">
+    <rect x="0" y="0" width="640" height="420"/>
+  </g>
+  <g fill="#3E5153">
+    <rect x="36" y="118" width="96" height="150" opacity=".32"/>
+    <rect x="150" y="76" width="74" height="192" opacity=".5"/>
+    <rect x="244" y="140" width="110" height="128" opacity=".26"/>
+    <rect x="374" y="96" width="86" height="172" opacity=".42"/>
+    <rect x="480" y="152" width="124" height="116" opacity=".3"/>
+    <rect x="196" y="206" width="72" height="62" opacity=".62"/>
+  </g>
+  <g fill="#F3EEE6" opacity=".5">
+    <rect x="160" y="96" width="10" height="8"/><rect x="180" y="96" width="10" height="8"/><rect x="200" y="96" width="10" height="8"/>
+    <rect x="160" y="118" width="10" height="8"/><rect x="180" y="118" width="10" height="8"/><rect x="200" y="118" width="10" height="8"/>
+    <rect x="160" y="140" width="10" height="8"/><rect x="180" y="140" width="10" height="8"/><rect x="200" y="140" width="10" height="8"/>
+    <rect x="384" y="116" width="12" height="8"/><rect x="408" y="116" width="12" height="8"/><rect x="432" y="116" width="12" height="8"/>
+    <rect x="384" y="140" width="12" height="8"/><rect x="408" y="140" width="12" height="8"/><rect x="432" y="140" width="12" height="8"/>
+  </g>
+  <rect x="0" y="268" width="640" height="26" fill="#D9CFC0"/>
+  <path d="M0 308h640" stroke="#C9BDA9" stroke-width="2"/>
+  <g fill="#A26542" opacity=".55">
+    <circle cx="120" cy="282" r="6"/>
+    <circle cx="300" cy="282" r="6"/>
+    <circle cx="470" cy="282" r="6"/>
+  </g>
+  <g fill="#3E5153" opacity=".45">
+    <circle cx="76" cy="346" r="20"/>
+    <circle cx="300" cy="352" r="16"/>
+    <circle cx="520" cy="344" r="22"/>
+  </g>
+  <g fill="#F8F5F0" opacity=".65">
+    <rect x="40" y="368" width="76" height="52" rx="8"/>
+    <rect x="200" y="368" width="76" height="52" rx="8"/>
+    <rect x="360" y="368" width="76" height="52" rx="8"/>
+    <rect x="520" y="368" width="76" height="52" rx="8"/>
+  </g>
+</svg>

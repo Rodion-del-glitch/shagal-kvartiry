@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Получение токена</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #F3EEE6; font-family: system-ui, "Segoe UI", Arial, sans-serif; color: #171614; }
+  .box { width: min(760px, calc(100% - 32px)); background: #fff; border: 1px solid rgba(23,22,20,.15); padding: 32px; }
+  h1 { font-size: 20px; margin: 0 0 8px; font-weight: 600; }
+  p { font-size: 14px; color: #6E6860; margin: 0 0 18px; }
+  textarea { width: 100%; min-height: 90px; font: 15px/1.5 Consolas, monospace; padding: 12px; border: 1px solid rgba(23,22,20,.2); background: #FAF7F2; resize: vertical; }
+  .row { display: flex; gap: 10px; margin-top: 12px; flex-wrap: wrap; }
+  button { padding: 12px 20px; border: 1px solid #A26542; background: #A26542; color: #fff; font: inherit; cursor: pointer; }
+  button.ghost { background: transparent; color: #171614; border-color: rgba(23,22,20,.3); }
+  .status { margin-top: 12px; font-size: 13px; color: #4A7A5A; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>Готово — токен получен</h1>
+  <p>Скопируй токен кнопкой ниже или сделай скриншот этого окна.</p>
+  <textarea id="out" readonly>ожидание…</textarea>
+  <div class="row">
+    <button id="copy">Скопировать токен</button>
+    <button class="ghost" id="mail">Отправить письмом</button>
+  </div>
+  <div class="status" id="status"></div>
+</div>
+<script>
+  (function () {
+    var raw = location.hash ? location.hash.slice(1) : location.search.slice(1);
+    var params = new URLSearchParams(raw);
+    var token = params.get('access_token') || '';
+    var error = params.get('error') || '';
+    var out = document.getElementById('out');
+    out.value = token || ('токен не найден' + (error ? ' (' + error + ')' : ''));
+    document.getElementById('copy').addEventListener('click', function () {
+      out.select();
+      document.execCommand('copy');
+      document.getElementById('status').textContent = 'Скопировано. Вставь в файл .env.local после METRIKA_TOKEN=';
+    });
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Среднеэтажные корпуса вокруг двора">
+  <rect width="520" height="360" fill="#EFE8DC"/>
+  <g fill="#3E5153" opacity=".18">
+    <rect x="20" y="120" width="46" height="150"/>
+    <rect x="452" y="132" width="52" height="138"/>
+  </g>
+  <rect x="92" y="132" width="96" height="138" fill="#3E5153"/>
+  <rect x="204" y="104" width="112" height="166" fill="#35322E"/>
+  <rect x="332" y="152" width="96" height="118" fill="#4A4540"/>
+  <g fill="#F3EEE6" opacity=".24">
+    <rect x="104" y="150" width="14" height="9"/><rect x="130" y="150" width="14" height="9"/><rect x="156" y="150" width="14" height="9"/>
+    <rect x="104" y="174" width="14" height="9"/><rect x="130" y="174" width="14" height="9"/><rect x="156" y="174" width="14" height="9"/>
+    <rect x="104" y="198" width="14" height="9"/><rect x="130" y="198" width="14" height="9"/><rect x="156" y="198" width="14" height="9"/>
+    <rect x="104" y="222" width="14" height="9"/><rect x="130" y="222" width="14" height="9"/><rect x="156" y="222" width="14" height="9"/>
+    <rect x="220" y="124" width="16" height="9"/><rect x="250" y="124" width="16" height="9"/><rect x="280" y="124" width="16" height="9"/>
+    <rect x="220" y="150" width="16" height="9"/><rect x="250" y="150" width="16" height="9"/><rect x="280" y="150" width="16" height="9"/>
+    <rect x="220" y="176" width="16" height="9"/><rect x="250" y="176" width="16" height="9"/><rect x="280" y="176" width="16" height="9"/>
+    <rect x="220" y="202" width="16" height="9"/><rect x="250" y="202" width="16" height="9"/><rect x="280" y="202" width="16" height="9"/>
+    <rect x="344" y="172" width="14" height="9"/><rect x="370" y="172" width="14" height="9"/><rect x="396" y="172" width="14" height="9"/>
+    <rect x="344" y="196" width="14" height="9"/><rect x="370" y="196" width="14" height="9"/><rect x="396" y="196" width="14" height="9"/>
+    <rect x="344" y="220" width="14" height="9"/><rect x="370" y="220" width="14" height="9"/><rect x="396" y="220" width="14" height="9"/>
+  </g>
+  <rect x="0" y="270" width="520" height="90" fill="#CBD2C6"/>
+  <g fill="#3E5153" opacity=".5">
+    <circle cx="70" cy="300" r="16"/>
+    <circle cx="160" cy="306" r="12"/>
+    <circle cx="452" cy="300" r="18"/>
+  </g>
+  <path d="M0 322h520" stroke="#F3EEE6" stroke-width="10" opacity=".8"/>
+</svg>

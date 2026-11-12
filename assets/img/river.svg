@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Набережная Москвы-реки">
+  <defs>
+    <linearGradient id="rs" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E9DFCF"/>
+      <stop offset="1" stop-color="#F3EEE6"/>
+    </linearGradient>
+    <linearGradient id="rw" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B4C4C0"/>
+      <stop offset="1" stop-color="#DDE3DD"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#rs)"/>
+  <circle cx="470" cy="120" r="62" fill="#D9A783" opacity=".55"/>
+  <g fill="#3E5153" opacity=".22">
+    <rect x="20" y="176" width="60" height="80"/>
+    <rect x="96" y="196" width="46" height="60"/>
+    <rect x="520" y="186" width="70" height="70"/>
+    <rect x="600" y="206" width="30" height="50"/>
+  </g>
+  <rect x="0" y="256" width="640" height="14" fill="#C9B9A2"/>
+  <rect x="0" y="270" width="640" height="150" fill="url(#rw)"/>
+  <ellipse cx="470" cy="282" rx="66" ry="6" fill="#D9A783" opacity=".5"/>
+  <g stroke="#3E5153" stroke-opacity=".2" stroke-width="1.6" stroke-linecap="round">
+    <path d="M40 306h150M250 306h120M430 306h160"/>
+    <path d="M90 336h120M270 336h170M490 336h110"/>
+    <path d="M30 368h140M220 368h190M460 368h150"/>
+    <path d="M120 396h180M360 396h170"/>
+  </g>
+  <g fill="#3E5153" opacity=".5">
+    <circle cx="60" cy="246" r="16"/>
+    <circle cx="92" cy="250" r="10"/>
+    <circle cx="560" cy="246" r="14"/>
+  </g>
+</svg>

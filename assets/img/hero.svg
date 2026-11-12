@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1040" role="img" aria-label="Квартал у Москвы-реки на закате">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E4D8C6"/>
+      <stop offset=".55" stop-color="#EFE7DA"/>
+      <stop offset="1" stop-color="#F3EEE6"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#AFC0BC"/>
+      <stop offset="1" stop-color="#DCE2DC"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35322E"/>
+      <stop offset="1" stop-color="#221F1C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="1040" fill="url(#sky)"/>
+  <circle cx="628" cy="268" r="112" fill="#D9A783" opacity=".5"/>
+  <circle cx="628" cy="268" r="68" fill="#C98B63" opacity=".35"/>
+
+  <!-- дальний план -->
+  <g fill="#3E5153" opacity=".16">
+    <rect x="20" y="470" width="90" height="240"/>
+    <rect x="128" y="512" width="70" height="198"/>
+    <rect x="214" y="440" width="104" height="270"/>
+    <rect x="336" y="498" width="68" height="212"/>
+    <rect x="760" y="452" width="96" height="258"/>
+  </g>
+
+  <!-- средний план -->
+  <g fill="#3E5153" opacity=".38">
+    <rect x="60" y="520" width="120" height="190"/>
+    <rect x="196" y="482" width="86" height="228"/>
+    <rect x="300" y="540" width="140" height="170"/>
+    <rect x="462" y="500" width="96" height="210"/>
+    <rect x="716" y="520" width="120" height="190"/>
+  </g>
+
+  <!-- башни -->
+  <g>
+    <rect x="352" y="286" width="118" height="424" fill="url(#tower)"/>
+    <rect x="352" y="286" width="118" height="12" fill="#4A4540"/>
+    <g fill="#F3EEE6" opacity=".22">
+      <rect x="368" y="322" width="16" height="9"/><rect x="396" y="322" width="16" height="9"/><rect x="424" y="322" width="16" height="9"/>
+      <rect x="368" y="348" width="16" height="9"/><rect x="396" y="348" width="16" height="9"/><rect x="424" y="348" width="16" height="9"/>
+      <rect x="368" y="374" width="16" height="9"/><rect x="396" y="374" width="16" height="9"/><rect x="424" y="374" width="16" height="9"/>
+      <rect x="368" y="400" width="16" height="9"/><rect x="396" y="400" width="16" height="9"/><rect x="424" y="400" width="16" height="9"/>
+      <rect x="368" y="426" width="16" height="9"/><rect x="396" y="426" width="16" height="9"/><rect x="424" y="426" width="16" height="9"/>
+      <rect x="368" y="452" width="16" height="9"/><rect x="396" y="452" width="16" height="9"/><rect x="424" y="452" width="16" height="9"/>
+      <rect x="368" y="478" width="16" height="9"/><rect x="396" y="478" width="16" height="9"/><rect x="424" y="478" width="16" height="9"/>
+      <rect x="368" y="504" width="16" height="9"/><rect x="396" y="504" width="16" height="9"/><rect x="424" y="504" width="16" height="9"/>
+    </g>
+  </g>
+
+  <rect x="492" y="368" width="132" height="342" fill="#2C2926"/>
+  <g fill="#F3EEE6" opacity=".16">
+    <rect x="508" y="396" width="22" height="10"/><rect x="544" y="396" width="22" height="10"/><rect x="580" y="396" width="22" height="10"/>
+    <rect x="508" y="426" width="22" height="10"/><rect x="544" y="426" width="22" height="10"/><rect x="580" y="426" width="22" height="10"/>
+    <rect x="508" y="456" width="22" height="10"/><rect x="544" y="456" width="22" height="10"/><rect x="580" y="456" width="22" height="10"/>
+    <rect x="508" y="486" width="22" height="10"/><rect x="544" y="486" width="22" height="10"/><rect x="580" y="486" width="22" height="10"/>
+    <rect x="508" y="516" width="22" height="10"/><rect x="544" y="516" width="22" height="10"/><rect x="580" y="516" width="22" height="10"/>
+  </g>
+
+  <rect x="246" y="430" width="92" height="280" fill="#3E5153"/>
+  <g fill="#F3EEE6" opacity=".2">
+    <rect x="260" y="454" width="14" height="8"/><rect x="286" y="454" width="14" height="8"/><rect x="312" y="454" width="14" height="8"/>
+    <rect x="260" y="480" width="14" height="8"/><rect x="286" y="480" width="14" height="8"/><rect x="312" y="480" width="14" height="8"/>
+    <rect x="260" y="506" width="14" height="8"/><rect x="286" y="506" width="14" height="8"/><rect x="312" y="506" width="14" height="8"/>
+    <rect x="260" y="532" width="14" height="8"/><rect x="286" y="532" width="14" height="8"/><rect x="312" y="532" width="14" height="8"/>
+  </g>
+
+  <rect x="640" y="404" width="104" height="306" fill="#423E39"/>
+  <g fill="#F3EEE6" opacity=".18">
+    <rect x="654" y="430" width="14" height="8"/><rect x="680" y="430" width="14" height="8"/><rect x="706" y="430" width="14" height="8"/>
+    <rect x="654" y="456" width="14" height="8"/><rect x="680" y="456" width="14" height="8"/><rect x="706" y="456" width="14" height="8"/>
+    <rect x="654" y="482" width="14" height="8"/><rect x="680" y="482" width="14" height="8"/><rect x="706" y="482" width="14" height="8"/>
+    <rect x="654" y="508" width="14" height="8"/><rect x="680" y="508" width="14" height="8"/><rect x="706" y="508" width="14" height="8"/>
+  </g>
+
+  <!-- набережная и вода -->
+  <rect x="0" y="704" width="880" height="20" fill="#C9B9A2"/>
+  <rect x="0" y="724" width="880" height="316" fill="url(#water)"/>
+  <ellipse cx="628" cy="740" rx="120" ry="9" fill="#D9A783" opacity=".45"/>
+  <g stroke="#3E5153" stroke-opacity=".22" stroke-width="2" stroke-linecap="round">
+    <path d="M60 786h240M370 786h180M640 786h180"/>
+    <path d="M120 822h190M400 822h220M700 822h120"/>
+    <path d="M40 862h160M300 862h260M640 862h200"/>
+    <path d="M170 902h220M470 902h180M720 902h120"/>
+    <path d="M60 942h180M330 942h240M660 942h160"/>
+  </g>
+
+  <!-- деревья на набережной -->
+  <g fill="#3E5153" opacity=".45">
+    <circle cx="120" cy="690" r="26"/>
+    <circle cx="168" cy="700" r="18"/>
+    <circle cx="792" cy="694" r="24"/>
+  </g>
+</svg>

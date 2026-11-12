@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 452" role="img" aria-label="Планировка: 2-комнатная, 66,9 м²">
+  <rect width="420" height="452" fill="#FBF8F3"/>
+  <rect x="20" y="20" width="156.8" height="71.6" fill="#FBF8F3" stroke="#171614" stroke-width="1.1"/>
+  <rect x="26" y="26" width="76.7" height="24.3" rx="4" fill="#FBF8F3" stroke="#171614" stroke-width="0.8"/>
+  <rect x="28" y="56.8" width="11.7" height="8.6" rx="1" fill="#FBF8F3" stroke="#171614" stroke-width="0.7"/>
+  <ellipse cx="38.7" cy="74.6" rx="8.2" ry="9.8" fill="#FBF8F3" stroke="#171614" stroke-width="0.7"/>
+  <ellipse cx="158" cy="75.8" rx="12.8" ry="9.8" fill="#FBF8F3" stroke="#171614" stroke-width="0.7"/>
+  <circle cx="158" cy="75.8" r="1.6" fill="#171614" stroke="#171614" stroke-width="0"/>
+  <text x="98.4" y="53.8" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="8.4" fill="#171614" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">Санузел</text>
+  <rect x="20" y="91.6" width="156.8" height="115.7" fill="#FBF8F3" stroke="#171614" stroke-width="1.1"/>
+  <text x="98.4" y="147.4" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="10.2" fill="#171614" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">Коридор</text>
+  <text x="98.4" y="161.4" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="8.4" fill="#6E6860" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">8,4 м²</text>
+  <rect x="20" y="207.2" width="156.8" height="192.8" fill="#FBF8F3" stroke="#171614" stroke-width="1.1"/>
+  <rect x="142.9" y="213.2" width="27.9" height="92.9" fill="#F2ECE2" stroke="#171614" stroke-width="0.8"/>
+  <line x1="156.8" y1="213.2" x2="156.8" y2="306.2" stroke="#171614" stroke-width="0.6"/>
+  <rect x="28" y="215.2" width="74.3" height="92.9" rx="1" fill="#F2ECE2" stroke="#171614" stroke-width="0.9"/>
+  <rect x="33.9" y="220.8" width="62.4" height="14.9" rx="2" fill="#FBF8F3" stroke="#171614" stroke-width="0.7"/>
+  <line x1="30" y1="246.8" x2="100.3" y2="246.8" stroke="#171614" stroke-width="0.6"/>
+  <rect x="38.4" y="254.3" width="19.3" height="9.3" rx="2" fill="#C98B63" stroke="#171614" stroke-width="0"/>
+  <text x="98.4" y="301.6" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="10.2" fill="#171614" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">Спальня</text>
+  <text x="98.4" y="315.6" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="8.4" fill="#6E6860" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">14 м²</text>
+  <rect x="176.8" y="20" width="223.2" height="254.3" fill="#FBF8F3" stroke="#171614" stroke-width="1.1"/>
+  <rect x="185.8" y="221.2" width="97.6" height="44.1" rx="2" fill="#F2ECE2" stroke="#171614" stroke-width="0.9"/>
+  <line x1="187.8" y1="234.4" x2="281.3" y2="234.4" stroke="#171614" stroke-width="0.6"/>
+  <line x1="234.6" y1="234.4" x2="234.6" y2="263.3" stroke="#171614" stroke-width="0.6"/>
+  <rect x="197.5" y="239.7" width="19.5" height="10.6" rx="1" fill="#C98B63" stroke="#171614" stroke-width="0"/>
+  <rect x="246.3" y="239.7" width="19.5" height="10.6" rx="1" fill="#C98B63" stroke="#171614" stroke-width="0"/>
+  <rect x="213.6" y="167.4" width="41.8" height="25.1" rx="2" fill="#F2ECE2" stroke="#171614" stroke-width="0.8"/>
+  <rect x="260.5" y="26" width="55.8" height="3.5" fill="#171614" stroke="#171614" stroke-width="0"/>
+  <line x1="384.6" y1="35.4" x2="384.6" y2="42.1" stroke="#171614" stroke-width="0.7"/>
+  <circle cx="384.6" cy="33.9" r="7.4" fill="#DCE3D8" stroke="#171614" stroke-width="0.7"/>
+  <rect x="184.8" y="28" width="139.4" height="27.9" fill="#F2ECE2" stroke="#171614" stroke-width="0.8"/>
+  <rect x="192.8" y="32.2" width="23.2" height="19.5" rx="1" fill="#FBF8F3" stroke="#171614" stroke-width="0.6"/>
+  <circle cx="204.4" cy="41.9" r="4.5" fill="#FBF8F3" stroke="#171614" stroke-width="0.5"/>
+  <rect x="292.6" y="30" width="27.9" height="23.9" fill="#FBF8F3" stroke="#171614" stroke-width="0.6"/>
+  <circle cx="300.9" cy="37.8" r="3.5" fill="#FBF8F3" stroke="#171614" stroke-width="0.5"/>
+  <circle cx="300.9" cy="47.3" r="3.5" fill="#FBF8F3" stroke="#171614" stroke-width="0.5"/>
+  <circle cx="313" cy="37.8" r="3.5" fill="#FBF8F3" stroke="#171614" stroke-width="0.5"/>
+  <circle cx="313" cy="47.3" r="3.5" fill="#FBF8F3" stroke="#171614" stroke-width="0.5"/>
+  <text x="288.4" y="145.2" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="10.2" fill="#171614" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">Кухня-гостиная</text>
+  <text x="288.4" y="159.2" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="8.4" fill="#6E6860" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">26,3 м²</text>
+  <rect x="176.8" y="274.3" width="223.2" height="125.7" fill="#FBF8F3" stroke="#171614" stroke-width="1.1"/>
+  <rect x="366.1" y="280.3" width="27.9" height="92.9" fill="#F2ECE2" stroke="#171614" stroke-width="0.8"/>
+  <line x1="380.1" y1="280.3" x2="380.1" y2="373.2" stroke="#171614" stroke-width="0.6"/>
+  <rect x="184.8" y="282.3" width="74.3" height="92.9" rx="1" fill="#F2ECE2" stroke="#171614" stroke-width="0.9"/>
+  <rect x="190.7" y="287.9" width="62.4" height="14.9" rx="2" fill="#FBF8F3" stroke="#171614" stroke-width="0.7"/>
+  <line x1="186.8" y1="313.9" x2="257.1" y2="313.9" stroke="#171614" stroke-width="0.6"/>
+  <rect x="195.2" y="321.3" width="19.3" height="9.3" rx="2" fill="#C98B63" stroke="#171614" stroke-width="0"/>
+  <text x="288.4" y="335.2" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="10.2" fill="#171614" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">Спальня</text>
+  <text x="288.4" y="349.2" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="8.4" fill="#6E6860" paint-order="stroke" stroke="#FBF8F3" stroke-width="2.6">13 м²</text>
+  <rect x="20" y="20" width="380" height="380" fill="none" stroke="#171614" stroke-width="3"/>
+  <line x1="70.4" y1="91.6" x2="126.4" y2="91.6" stroke="#FBF8F3" stroke-width="8"/>
+  <line x1="70.4" y1="91.6" x2="70.4" y2="35.6" stroke="#171614" stroke-width="1.1"/>
+  <path d="M 70.4 35.6 A 56 56 0 0 1 126.4 91.6" fill="none" stroke="#171614" stroke-width="1.1"/>
+  <line x1="70.4" y1="207.2" x2="126.4" y2="207.2" stroke="#FBF8F3" stroke-width="8"/>
+  <line x1="70.4" y1="207.2" x2="70.4" y2="263.2" stroke="#171614" stroke-width="1.1"/>
+  <path d="M 70.4 263.2 A 56 56 0 0 0 126.4 207.2" fill="none" stroke="#171614" stroke-width="1.1"/>
+  <line x1="176.8" y1="121.4" x2="176.8" y2="177.4" stroke="#FBF8F3" stroke-width="8"/>
+  <line x1="176.8" y1="121.4" x2="232.8" y2="121.4" stroke="#171614" stroke-width="1.1"/>
+  <path d="M 232.8 121.4 A 56 56 0 0 1 176.8 177.4" fill="none" stroke="#171614" stroke-width="1.1"/>
+  <line x1="20" y1="119.4" x2="20" y2="179.4" stroke="#FBF8F3" stroke-width="11"/>
+  <line x1="20" y1="119.4" x2="80" y2="119.4" stroke="#171614" stroke-width="1.3"/>
+  <path d="M 80 119.4 A 60 60 0 0 0 20 179.4" fill="none" stroke="#171614" stroke-width="1.3"/>
+  <line x1="56.4" y1="400" x2="140.4" y2="400" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="56.4" y1="400" x2="140.4" y2="400" stroke="#171614" stroke-width="1.4"/>
+  <line x1="20" y1="261.6" x2="20" y2="345.6" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="20" y1="261.6" x2="20" y2="345.6" stroke="#171614" stroke-width="1.4"/>
+  <line x1="246.4" y1="20" x2="330.4" y2="20" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="246.4" y1="20" x2="330.4" y2="20" stroke="#171614" stroke-width="1.4"/>
+  <line x1="400" y1="105.2" x2="400" y2="189.2" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="400" y1="105.2" x2="400" y2="189.2" stroke="#171614" stroke-width="1.4"/>
+  <line x1="246.4" y1="400" x2="330.4" y2="400" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="246.4" y1="400" x2="330.4" y2="400" stroke="#171614" stroke-width="1.4"/>
+  <line x1="400" y1="295.2" x2="400" y2="379.2" stroke="#FBF8F3" stroke-width="7"/>
+  <line x1="400" y1="295.2" x2="400" y2="379.2" stroke="#171614" stroke-width="1.4"/>
+  <circle cx="40" cy="430" r="11" fill="none" stroke="#171614" stroke-width="0.8"/>
+  <polygon points="40,422 36.5,432 40,430 43.5,432" fill="#171614"/>
+  <text x="40" y="439" text-anchor="middle" font-family="Onest, Arial, sans-serif" font-size="6.5" fill="#6E6860">С</text>
+  <text x="400" y="434" text-anchor="end" font-family="Onest, Arial, sans-serif" font-size="7.6" letter-spacing="1.4" fill="#B0A18B">ЖК «ШАГАЛ»</text>
+</svg>
