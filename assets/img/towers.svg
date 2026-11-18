@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Высотные башни первой линии">
+  <rect width="520" height="360" fill="#EFE8DC"/>
+  <circle cx="392" cy="84" r="46" fill="#D9A783" opacity=".45"/>
+  <g fill="#3E5153" opacity=".2">
+    <rect x="24" y="176" width="52" height="130"/>
+    <rect x="440" y="160" width="60" height="146"/>
+  </g>
+  <rect x="120" y="72" width="82" height="234" fill="#2C2926"/>
+  <rect x="220" y="128" width="70" height="178" fill="#3E5153"/>
+  <rect x="306" y="98" width="88" height="208" fill="#35322E"/>
+  <g fill="#F3EEE6" opacity=".22">
+    <rect x="134" y="94" width="12" height="7"/><rect x="156" y="94" width="12" height="7"/><rect x="178" y="94" width="12" height="7"/>
+    <rect x="134" y="114" width="12" height="7"/><rect x="156" y="114" width="12" height="7"/><rect x="178" y="114" width="12" height="7"/>
+    <rect x="134" y="134" width="12" height="7"/><rect x="156" y="134" width="12" height="7"/><rect x="178" y="134" width="12" height="7"/>
+    <rect x="134" y="154" width="12" height="7"/><rect x="156" y="154" width="12" height="7"/><rect x="178" y="154" width="12" height="7"/>
+    <rect x="134" y="174" width="12" height="7"/><rect x="156" y="174" width="12" height="7"/><rect x="178" y="174" width="12" height="7"/>
+    <rect x="134" y="194" width="12" height="7"/><rect x="156" y="194" width="12" height="7"/><rect x="178" y="194" width="12" height="7"/>
+    <rect x="320" y="120" width="14" height="7"/><rect x="346" y="120" width="14" height="7"/><rect x="372" y="120" width="14" height="7"/>
+    <rect x="320" y="142" width="14" height="7"/><rect x="346" y="142" width="14" height="7"/><rect x="372" y="142" width="14" height="7"/>
+    <rect x="320" y="164" width="14" height="7"/><rect x="346" y="164" width="14" height="7"/><rect x="372" y="164" width="14" height="7"/>
+    <rect x="320" y="186" width="14" height="7"/><rect x="346" y="186" width="14" height="7"/><rect x="372" y="186" width="14" height="7"/>
+    <rect x="320" y="208" width="14" height="7"/><rect x="346" y="208" width="14" height="7"/><rect x="372" y="208" width="14" height="7"/>
+  </g>
+  <rect x="0" y="306" width="520" height="54" fill="#D9CFC0"/>
+  <g stroke="#3E5153" stroke-opacity=".2" stroke-width="1.6">
+    <path d="M30 330h120M190 330h100M330 330h160"/>
+  </g>
+</svg>

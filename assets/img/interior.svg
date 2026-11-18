@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Интерьер квартиры с панорамным окном">
+  <defs>
+    <linearGradient id="iw" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E4D8C6"/>
+      <stop offset="1" stop-color="#F3EEE6"/>
+    </linearGradient>
+    <linearGradient id="if" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D9CFC0"/>
+      <stop offset="1" stop-color="#C9BDA9"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DCE6E3"/>
+      <stop offset="1" stop-color="#F1EADD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="720" height="760" fill="url(#iw)"/>
+  <rect x="0" y="556" width="720" height="204" fill="url(#if)"/>
+
+  <!-- окно -->
+  <rect x="356" y="84" width="316" height="472" fill="url(#glass)"/>
+  <g fill="#3E5153" opacity=".2">
+    <rect x="380" y="330" width="46" height="110"/>
+    <rect x="440" y="368" width="34" height="72"/>
+    <rect x="492" y="300" width="54" height="140"/>
+    <rect x="560" y="352" width="40" height="88"/>
+    <rect x="614" y="318" width="42" height="122"/>
+  </g>
+  <circle cx="600" cy="196" r="34" fill="#D9A783" opacity=".55"/>
+  <g stroke="#C9BDA9" stroke-width="4">
+    <rect x="356" y="84" width="316" height="472" fill="none"/>
+    <path d="M514 84v472M356 320h316"/>
+  </g>
+
+  <!-- свет из окна на полу -->
+  <path d="M356 556l316 0-70 120H286z" fill="#FBF8F3" opacity=".45"/>
+
+  <!-- ковер -->
+  <rect x="88" y="566" width="300" height="118" rx="4" fill="#C7B9A4" opacity=".55"/>
+  <rect x="100" y="578" width="276" height="94" rx="2" fill="none" stroke="#B0A18B" stroke-width="2"/>
+
+  <!-- диван -->
+  <rect x="64" y="452" width="284" height="96" rx="16" fill="#A26542"/>
+  <rect x="76" y="430" width="260" height="60" rx="14" fill="#B0714C"/>
+  <rect x="84" y="470" width="116" height="64" rx="10" fill="#B97E58"/>
+  <rect x="208" y="470" width="116" height="64" rx="10" fill="#B97E58"/>
+  <rect x="64" y="548" width="284" height="16" rx="4" fill="#864F32"/>
+
+  <!-- столик -->
+  <rect x="300" y="596" width="150" height="12" rx="4" fill="#35322E"/>
+  <rect x="316" y="608" width="8" height="46" fill="#35322E"/>
+  <rect x="426" y="608" width="8" height="46" fill="#35322E"/>
+  <ellipse cx="376" cy="590" rx="26" ry="6" fill="#3E5153" opacity=".25"/>
+
+  <!-- торшер -->
+  <path d="M636 556v-96" stroke="#2C2926" stroke-width="4"/>
+  <path d="M596 460h80l-14-44h-52z" fill="#EFE7DA" stroke="#2C2926" stroke-width="3"/>
+  <ellipse cx="636" cy="556" rx="30" ry="5" fill="#2C2926" opacity=".15"/>
+
+  <!-- растение -->
+  <rect x="140" y="470" width="52" height="64" rx="6" fill="#C9B9A2"/>
+  <g stroke="#3E5153" stroke-width="3" fill="none" opacity=".7">
+    <path d="M166 470c0-34-18-52-34-60"/>
+    <path d="M166 470c0-40 8-62 26-74"/>
+    <path d="M166 470c-4-26-22-34-40-34"/>
+  </g>
+  <g fill="#3E5153" opacity=".45">
+    <ellipse cx="130" cy="408" rx="14" ry="8" transform="rotate(-28 130 408)"/>
+    <ellipse cx="194" cy="392" rx="14" ry="8" transform="rotate(20 194 392)"/>
+    <ellipse cx="124" cy="434" rx="12" ry="7" transform="rotate(-10 124 434)"/>
+  </g>
+
+  <!-- картина -->
+  <rect x="88" y="180" width="150" height="190" fill="#EFE7DA" stroke="#C9BDA9" stroke-width="3"/>
+  <rect x="104" y="196" width="118" height="158" fill="#DCE2DC"/>
+  <path d="M104 316l40-64 34 42 20-24 24 46z" fill="#3E5153" opacity=".35"/>
+  <circle cx="190" cy="230" r="14" fill="#D9A783" opacity=".6"/>
+</svg>

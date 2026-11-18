@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+Sitemap: https://shagal-kvartiry.ru/sitemap.xml
+Host: https://shagal-kvartiry.ru

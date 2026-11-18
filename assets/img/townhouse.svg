@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Таунхаусы с приватными дворами">
+  <rect width="520" height="360" fill="#EFE8DC"/>
+  <circle cx="86" cy="72" r="38" fill="#D9A783" opacity=".45"/>
+  <g>
+    <path d="M40 168l52-38 52 38v104H40z" fill="#3E5153"/>
+    <path d="M156 168l52-38 52 38v104h-104z" fill="#35322E"/>
+    <path d="M272 168l52-38 52 38v104h-104z" fill="#423E39"/>
+    <path d="M388 168l52-38 52 38v104h-104z" fill="#2C2926"/>
+  </g>
+  <g fill="#F3EEE6" opacity=".26">
+    <rect x="60" y="196" width="18" height="26"/>
+    <rect x="176" y="196" width="18" height="26"/>
+    <rect x="292" y="196" width="18" height="26"/>
+    <rect x="408" y="196" width="18" height="26"/>
+    <rect x="96" y="196" width="18" height="26"/>
+    <rect x="212" y="196" width="18" height="26"/>
+    <rect x="328" y="196" width="18" height="26"/>
+    <rect x="444" y="196" width="18" height="26"/>
+  </g>
+  <rect x="0" y="272" width="520" height="88" fill="#CBD2C6"/>
+  <g stroke="#F3EEE6" stroke-width="8" opacity=".85">
+    <path d="M0 296h520"/>
+  </g>
+  <g fill="#3E5153" opacity=".45">
+    <circle cx="140" cy="322" r="12"/>
+    <circle cx="380" cy="320" r="14"/>
+  </g>
+  <g stroke="#3E5153" stroke-opacity=".25" stroke-width="2">
+    <path d="M104 272v88M220 272v88M336 272v88M452 272v88"/>
+  </g>
+</svg>
